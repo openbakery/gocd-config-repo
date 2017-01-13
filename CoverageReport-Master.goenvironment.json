@@ -1,7 +1,7 @@
 {
   "name": "CoverageReport-Master",
   "pipelines": [
-    "CR-Master-Continuous",
+    "CR-Master-BuildAndTest",
     "CR-Master-Jar"
 	]
 }
