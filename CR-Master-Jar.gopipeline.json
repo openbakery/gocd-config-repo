@@ -8,6 +8,12 @@
 			"url": "git@github.com:openbakery/CoverageReport.git",
 			"type": "git",
 			"branch": "master"
+		},
+		{
+			"type": "dependency",
+			"name": "CR-Master-dependency",
+			"pipeline": "CR-Master-BuildAndTest",
+			"stage": "BuildAndTest"
 		}
 	],
 	"stages": [
