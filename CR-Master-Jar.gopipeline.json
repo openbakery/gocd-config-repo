@@ -6,6 +6,7 @@
 	"materials": [
 		{
 			"url": "git@github.com:openbakery/CoverageReport.git",
+			"name" : "Git-Repo"
 			"type": "git",
 			"branch": "master"
 		},
